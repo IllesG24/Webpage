@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Illés Gergő hivatalos oldala</title>
+    <style>
+        body {
+            background-color: white;
+            color: black;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            text-align: center;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Illés Gergő</h1>
+        <p>Ez egy saját tervezésű projekt tesztje, melyet AI segítségével hozok létre.</p>
+        <p>Here, you can learn more about me.</p>
+        <!-- You can add more content here as needed -->
+    </div>
+</body>
+</html>
